@@ -1,2 +1,2 @@
-# GPProject
-Graphisc programming end of semester game
+# Graphics programming Project
+Graphics programming end of semester game
